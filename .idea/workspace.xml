@@ -4,9 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="82e5540a-4875-4601-9582-9da50d934a16" name="Changes" comment="Ultimo commit, retoques finales.">
-      <change afterPath="$PROJECT_DIR$/butacas.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="82e5540a-4875-4601-9582-9da50d934a16" name="Changes" comment="Habilitar escalabilidad en obtener prioridad">
       <change beforePath="$PROJECT_DIR$/src/main/java/com/babelgroup/acomodador/services/ISeatingService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/babelgroup/acomodador/services/ISeatingService.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/com/babelgroup/acomodador/services/impl/SeatingService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/babelgroup/acomodador/services/impl/SeatingService.java" afterDir="false" />
     </list>
@@ -97,12 +95,30 @@
       <option name="project" value="LOCAL" />
       <updated>1713514001950</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Randomness">
+      <option name="closed" value="true" />
+      <created>1714039560155</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1714039560155</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Randomness">
+      <option name="closed" value="true" />
+      <created>1714039642103</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1714039642103</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <MESSAGE value="Ultimo commit, retoques finales." />
-    <option name="LAST_COMMIT_MESSAGE" value="Ultimo commit, retoques finales." />
+    <MESSAGE value="Randomness" />
+    <MESSAGE value="Habilitar escalabilidad en obtener prioridad" />
+    <option name="LAST_COMMIT_MESSAGE" value="Habilitar escalabilidad en obtener prioridad" />
   </component>
 </project>
