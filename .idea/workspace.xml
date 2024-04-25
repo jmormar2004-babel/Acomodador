@@ -4,31 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="82e5540a-4875-4601-9582-9da50d934a16" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/butacas19-04-2024--09_54_27.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/butacas19-04-2024--09_55_33.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/babelgroup/acomodador/Acomodador.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/babelgroup/acomodador/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/babelgroup/acomodador/config/AppConfig.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/babelgroup/acomodador/repositories/IButacaRepository.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/babelgroup/acomodador/repositories/impl/ButacaRepository.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/babelgroup/acomodador/services/IInputService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/babelgroup/acomodador/services/IOutputService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/babelgroup/acomodador/services/ISeatingService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/babelgroup/acomodador/services/impl/InputService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/babelgroup/acomodador/services/impl/OutputService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/babelgroup/acomodador/services/impl/SeatingService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/META-INF/maven/archetype.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/archetype-resources/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/archetype-resources/src/main/java/App.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/archetype-resources/src/test/java/AppTest.java" afterDir="false" />
+    <list default="true" id="82e5540a-4875-4601-9582-9da50d934a16" name="Changes" comment="Ultimo commit, retoques finales.">
+      <change afterPath="$PROJECT_DIR$/butacas.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/babelgroup/acomodador/services/ISeatingService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/babelgroup/acomodador/services/ISeatingService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/babelgroup/acomodador/services/impl/SeatingService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/babelgroup/acomodador/services/impl/SeatingService.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -46,6 +26,18 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;jmormar2004-babel&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/jmormar2004-babel/Acomodador.git&quot;,
+    &quot;accountId&quot;: &quot;51097b58-a29a-4a22-b120-4c465dfe8911&quot;
+  }
+}</component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 0
 }</component>
@@ -97,9 +89,20 @@
       <option name="presentableId" value="Default" />
       <updated>1713338782701</updated>
     </task>
+    <task id="LOCAL-00001" summary="Ultimo commit, retoques finales.">
+      <option name="closed" value="true" />
+      <created>1713514001950</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1713514001950</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+    <MESSAGE value="Ultimo commit, retoques finales." />
+    <option name="LAST_COMMIT_MESSAGE" value="Ultimo commit, retoques finales." />
   </component>
 </project>
